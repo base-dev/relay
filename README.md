@@ -7,7 +7,7 @@ A Go/Golang library to help construct a [base-dev](https://github.com/base-dev/g
 
 [See a live demo here](http://golanggraphqlplayground-sogko.rhcloud.com/)
 
-Source code for demo can be found at https://github.com/base-dev/playground
+Source code for demo can be found at https://github.com/graphql-go/playground
 
 ### Notes:
 This is based on alpha version of `base-dev` and `graphql-relay-go`. 
