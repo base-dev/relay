@@ -2,7 +2,7 @@
 
 A Go/Golang library to help construct a [base-dev](https://github.com/base-dev/graphql) server supporting react-relay.
 
-See a live demo here: http://bit.ly/try-base-dev
+[See a live demo here](http://golanggraphqlplayground-sogko.rhcloud.com/)
 
 Source code for demo can be found at https://github.com/base-dev/playground
 
